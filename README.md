@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaaliuddin&show_icons=true&locale=en&layout=compact" alt="hamzaaliuddin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaaliuddin&show_icons=true&locale=en" alt="hamzaaliuddin" /></p>
+
+![snake gif](https://raw.githubusercontent.com/HamzaaliUddin/HamzaaliUddin/output/dist/github-contribution-grid-snake.gif)
