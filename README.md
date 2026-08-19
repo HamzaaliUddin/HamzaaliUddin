@@ -1,83 +1,149 @@
-# Hi there, I'm Muhammad Hamza Ali 👋
+# Hi, I'm Muhammad Hamza Ali 👋
 
-**Junior Automation Developer (n8n) + Web Developer (MERN / Next.js)** from Karachi, Pakistan 🇵🇰  
-I build **event-driven automations** (webhooks, cron, API workflows) and **scalable web apps** (clean UI + structured APIs).
-## 🚀 Skills
+### Software Engineer | Full-Stack & Backend | AI Integration
 
-### 🤖 Automation & Integrations (n8n)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=webhooks&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+I build **scalable web applications, secure backend systems, and AI-powered solutions** with a focus on clean architecture, maintainability, performance, and reliable integrations.
+
+My work spans **full-stack development, backend APIs, databases, Generative AI integration, RAG systems, tool calling, and workflow automation**.
+
+🌐 **Portfolio:** [hamza-ali-uddin.vercel.app](https://hamza-ali-uddin.vercel.app/)
+💼 **Open to:** Software Engineering, Full-Stack, Backend & AI Integration opportunities
 
 ---
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🚀 What I Work With
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🤖 AI & Generative AI
 
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-5B4FDB?style=for-the-badge)
 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+`LLM APIs` `RAG` `Embeddings` `Vector Search` `Prompt Engineering` `Structured Outputs` `Tool Calling` `AI Agents` `Context Management`
 
-![Firebase](https://img.shields.io/badge/Firebase-F1C232?style=for-the-badge&logo=firebase&logoColor=white)
+I integrate LLMs into real applications rather than treating AI as a standalone feature — connecting models with **backend services, databases, retrieval systems, business logic, and external APIs**.
 
 ---
 
-### 🧠 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### ⚡ Automation & Integrations
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+
+`Workflow Automation` `Webhooks` `Third-Party APIs` `AI Workflows` `Event-Driven Automation`
+
+I use **n8n and APIs** to build automated workflows involving webhooks, AI processing, external services, notifications, and business processes.
 
 ---
 
-### 🗄️ Databases & ORM/ODM
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+## 🧠 Backend Engineering
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08658c?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+`REST APIs` `GraphQL` `Authentication` `Authorization` `JWT` `RBAC` `Webhooks` `Third-Party Integrations` `Clean Architecture`
 
----
-
-### 🚀 DevOps / Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
+I focus on building backend systems with clear separation of concerns, secure authentication and authorization, structured APIs, maintainable business logic, and scalable database design.
 
 ---
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🎨 Frontend Development
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-## 📫 Contact
-- **Email:** [hamzaalikhan20611@gmail.com](mailto:hamzaalikhan20611@gmail.com)
-- **LinkedIn:** https://linkedin.com/in/hamza-ali-943749321
-- **GitHub:** https://github.com/HamzaaliUddin
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Shadcn UI` `Material UI`
+
+I build responsive, reusable interfaces and connect them with backend APIs, authentication flows, dynamic application state, and AI-powered features.
 
 ---
 
-## 🤝 Let’s connect
-If you're building automation, dashboards, or full-stack apps and want someone who focuses on **clean structure + reliable delivery**, feel free to reach out.
+## 🗄️ Databases & Data Layer
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge\&logo=sequelize\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+`PostgreSQL` `MongoDB` `Prisma` `Sequelize` `Mongoose` `Data Modeling` `Relationships` `Vector Search`
+
+---
+
+## 🛠️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+`Git` `GitHub` `GitLab` `Postman` `Jira` `Slack` `Mattermost`
+
+---
+
+## 🏗️ Engineering Approach
+
+I aim to build software that is not only functional, but also maintainable and production-focused.
+
+* Clean and modular architecture
+* Secure API design
+* Authentication and role-based authorization
+* Database modeling and relationships
+* Error handling and validation
+* Third-party API integrations
+* AI provider integration
+* RAG and semantic search
+* Tool/function calling
+* Automation workflows
+* Git-based development workflows
+
+---
+
+## 🚀 Featured Work
+
+### Full-Stack, Backend & AI Engineering Projects
+
+I maintain a collection of projects covering **backend APIs, full-stack applications, database-driven systems, AI integrations, and automation workflows**.
+
+🔗 **Explore my projects:**
+[hamza-ali-uddin.vercel.app/projects](https://hamza-ali-uddin.vercel.app/projects)
+
+---
+
+## 💡 Current Focus
+
+Currently strengthening my experience in:
+
+**AI Engineering** → RAG, embeddings, vector search, tool calling, agents and LLM application architecture
+
+**Backend Engineering** → scalable APIs, clean architecture, secure systems and Go
+
+**Automation** → AI-powered n8n workflows, webhooks and external API orchestration
+
+**Production Systems** → reliability, security, deployment and maintainable application architecture
+
+---
+
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hamza-ali-uddin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hamza-ali-943749321)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HamzaaliUddin)
+
+---
+
+### 🤝 Let's Build Something Useful
+
+I'm interested in opportunities involving **full-stack engineering, backend development, AI integration, and automation**.
+
+If you're building scalable web applications, backend platforms, AI-powered products, or workflow automation systems, feel free to connect.
